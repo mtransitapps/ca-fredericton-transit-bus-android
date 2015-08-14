@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MonTransit Fredericton Transit Bus</string>
+    <string name="app_desc">Données des autobus de Fredericton Transit pour MonTransit.</string>
+</resources>
