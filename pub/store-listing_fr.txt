@@ -5,12 +5,12 @@ Autobus Fredericton Transit pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
-Horaires du 1 janvier 2007 au 30 décembre 2015.
+Horaires du 1 janvier 2007 au 30 décembre 2016.
 ----------
 Full description:
 Cette application ajoute les informations des autobus de Fredericton Transit à MonTransit.
 
-L'app contient les horaires plannifiées.
+L'app contient les horaires planifiés.
 
 Les autobus de Fredericton Transit desservent Fredericton au Nouveau-Brunswick, Canada.
 
