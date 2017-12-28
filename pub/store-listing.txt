@@ -5,7 +5,7 @@ Fredericton Transit Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from January 1, 2007 to December 31, 2018.
+Schedule from January 1, 2007 to December 30, 2017.
 ----------
 Full description:
 This app adds Fredericton Transit buses information to MonTransit.
