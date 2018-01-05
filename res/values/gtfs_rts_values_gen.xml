@@ -4,9 +4,9 @@
     <bool name="gtfs_rts_schedule_available">true</bool>
     <bool name="gtfs_rts_frequency_available">true</bool>
     <string name="gtfs_rts_timezone">America/Moncton</string>
-    <string name="gtfs_rts_area_min_lat">45.902728</string>
-    <string name="gtfs_rts_area_max_lat">46.013684</string>
-    <string name="gtfs_rts_area_min_lng">-66.769433</string>
-    <string name="gtfs_rts_area_max_lng">-66.576975</string>
+    <string name="gtfs_rts_area_min_lat">45.90281126</string>
+    <string name="gtfs_rts_area_max_lat">46.01390542</string>
+    <string name="gtfs_rts_area_min_lng">-66.76941696</string>
+    <string name="gtfs_rts_area_max_lng">-66.57694617</string>
     <string name="gtfs_rts_color">FD6604</string>
 </resources>
