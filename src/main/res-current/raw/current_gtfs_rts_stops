@@ -474,7 +474,7 @@
 5077,'','266 York',45.95894695,-66.6465655
 5078,'','324 York',45.95786785,-66.64749429
 5079,'','Cliffe / Union',45.96990687,-66.63304673
-5080,'','Union / Plz',45.968088,-66.630223
+5080,'','Union @ Plz',45.968088,-66.630223
 5082,'','664 Union',45.96635066,-66.62810193
 5083,'','Union / Gibson',45.9627883,-66.62573768
 5084,'','867 Union',45.95988282,-66.62447853
@@ -638,15 +638,15 @@
 201306,'','Kimble Dr South Near Vanier Hwy',45.92532642,-66.63546206
 201307,'','Kimble Dr North Near Vanier Hwy',45.92247961,-66.63766116
 201308,'','Knowledge Pk Dr Near Alison Blvd',45.9229679,-66.63752612
-201309,'','Knowledge Pk Dr West / Grant Harvey Ctr',45.92210538,-66.64319787
-201310,'','Knowledge Pk Dr East / Grant Harvey Ctr',45.9219708,-66.64332286
+201309,'','Knowledge Pk Dr West @ Grant Harvey Ctr',45.92210538,-66.64319787
+201310,'','Knowledge Pk Dr East @ Grant Harvey Ctr',45.9219708,-66.64332286
 201311,'','Knowledge Pk Dr West',45.92355326,-66.64567749
 201314,'','Knowledge Pk Dr East Near Riocan Ave',45.9234848,-66.64581694
-201315,'','Riocan Ave / Corbett Ctr',45.9291529,-66.6627085
+201315,'','Riocan Ave @ Corbett Ctr',45.9291529,-66.6627085
 201316,'','Knowledge Pk Dr Near Regent St',45.93186641,-66.66243365
 201317,'','James F Flemming Cir Near Entrance',45.9337192,-66.66102535
-201318,'','Regent St / Forestry Complex',45.93409048,-66.661402
-201319,'','Maple St / Fulton Ave',45.9810433,-66.65121865
+201318,'','Regent St @ Forestry Complex',45.93409048,-66.661402
+201319,'','Maple St @ Fulton Ave',45.9810433,-66.65121865
 201320,'','43 Glenmar Dr',46.0088921,-66.63807469
 201321,'','300 Saint Marys',45.977419,-66.633671
 201322,'','Wilsey Rd South Near Lincoln Rd',45.92781948,-66.61917662
@@ -674,6 +674,6 @@
 201348,'','Saint Marys',45.98280797,-66.63300032
 201349,'','283 Sanit Marys',45.977168,-66.633945
 201350,'','163 Riverside',45.947309,-66.62016
-201351,'','Canada St / Mason',45.98925958,-66.58768155
-201352,'','Lincoln Rd / Wilsey',45.92982275,-66.62110664
+201351,'','Canada St @ Mason',45.98925958,-66.58768155
+201352,'','Lincoln Rd @ Wilsey',45.92982275,-66.62110664
 201353,'','Nashwaaksis Pl',45.97857132,-66.6576793
