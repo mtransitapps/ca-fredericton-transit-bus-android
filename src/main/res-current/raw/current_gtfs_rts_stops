@@ -1,4 +1,4 @@
-1000,'','KINGS Pl',45.96181409,-66.64361753
+1000,'','Kings Pl',45.96181409,-66.64361753
 1001,'','Killarney Lk Lodge',46.01368444,-66.63028713
 1002,'','1265 Brookside',46.0122185,-66.63284213
 1003,'','Julien',46.0085869,-66.64048813
@@ -633,15 +633,15 @@
 201301,'','46 Dineen Dr UNB',45.94575765,-66.64470809
 201302,'','41 Dineen Dr UNB',45.94576286,-66.64491894
 201303,'','Currie Ctr UNB',45.94667843,-66.63903313
-201304,'','MacKay Dr South Near Gym UNB',45.94875506,-66.63982117
-201305,'','MacKay Dr North Near Gym UNB',45.9490094,-66.6395448
-201306,'','Kimble Dr South Near Vanier Hwy',45.92532642,-66.63546206
-201307,'','Kimble Dr North Near Vanier Hwy',45.92247961,-66.63766116
+201304,'','MacKay Dr S Near Gym UNB',45.94875506,-66.63982117
+201305,'','MacKay Dr N Near Gym UNB',45.9490094,-66.6395448
+201306,'','Kimble Dr S Near Vanier Hwy',45.92532642,-66.63546206
+201307,'','Kimble Dr N Near Vanier Hwy',45.92247961,-66.63766116
 201308,'','Knowledge Pk Dr Near Alison Blvd',45.9229679,-66.63752612
-201309,'','Knowledge Pk Dr West @ Grant Harvey Ctr',45.92210538,-66.64319787
-201310,'','Knowledge Pk Dr East @ Grant Harvey Ctr',45.9219708,-66.64332286
-201311,'','Knowledge Pk Dr West',45.92355326,-66.64567749
-201314,'','Knowledge Pk Dr East Near Riocan Ave',45.9234848,-66.64581694
+201309,'','Knowledge Pk Dr W @ Grant Harvey Ctr',45.92210538,-66.64319787
+201310,'','Knowledge Pk Dr E @ Grant Harvey Ctr',45.9219708,-66.64332286
+201311,'','Knowledge Pk Dr W',45.92355326,-66.64567749
+201314,'','Knowledge Pk Dr E Near Riocan Ave',45.9234848,-66.64581694
 201315,'','Riocan Ave @ Corbett Ctr',45.9291529,-66.6627085
 201316,'','Knowledge Pk Dr Near Regent St',45.93186641,-66.66243365
 201317,'','James F Flemming Cir Near Entrance',45.9337192,-66.66102535
@@ -649,8 +649,8 @@
 201319,'','Maple St @ Fulton Ave',45.9810433,-66.65121865
 201320,'','43 Glenmar Dr',46.0088921,-66.63807469
 201321,'','300 Saint Marys',45.977419,-66.633671
-201322,'','Wilsey Rd South Near Lincoln Rd',45.92781948,-66.61917662
-201323,'','Wilsey Rd North Near Lincoln Rd',45.92777989,-66.61898742
+201322,'','Wilsey Rd S Near Lincoln Rd',45.92781948,-66.61917662
+201323,'','Wilsey Rd N Near Lincoln Rd',45.92777989,-66.61898742
 201324,'','140 Wilsey Rd',45.92597109,-66.61891549
 201325,'','300 Wilsey Rd',45.9220741,-66.62012715
 201326,'','370 Wilsey Rd',45.91923485,-66.61936889
