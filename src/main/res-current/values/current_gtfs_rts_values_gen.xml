@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <bool name="current_gtfs_rts_schedule_available">true</bool>
-    <bool name="current_gtfs_rts_frequency_available">true</bool>
-    <string name="current_gtfs_rts_area_min_lat">45.90273428</string>
-    <string name="current_gtfs_rts_area_max_lat">46.01368444</string>
-    <string name="current_gtfs_rts_area_min_lng">-66.76942465</string>
-    <string name="current_gtfs_rts_area_max_lng">-66.57699011</string>
-    <integer name="current_gtfs_rts_first_departure_in_sec">1167641100</integer><!-- 2007/01/01 08:45:00 UTC -->
-    <integer name="current_gtfs_rts_last_departure_in_sec">1703994000</integer><!-- 2023/12/31 03:40:00 UTC -->
+    <bool name="current_gtfs_rts_frequency_available">false</bool>
+    <string name="current_gtfs_rts_area_min_lat">45.90273</string>
+    <string name="current_gtfs_rts_area_max_lat">46.01368</string>
+    <string name="current_gtfs_rts_area_min_lng">-66.76942</string>
+    <string name="current_gtfs_rts_area_max_lng">-66.57699</string>
+    <integer name="current_gtfs_rts_first_departure_in_sec">1699098120</integer><!-- 2023/11/04 11:42:00 UTC -->
+    <integer name="current_gtfs_rts_last_departure_in_sec">1703387100</integer><!-- 2023/12/24 03:05:00 UTC -->
 </resources>
