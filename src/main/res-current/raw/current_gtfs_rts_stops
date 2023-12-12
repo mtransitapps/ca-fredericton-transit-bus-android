@@ -7,9 +7,9 @@
 1005,'','Brookside & / Et Heron',46.0011,-66.64242,0
 1006,'','Brookside & / Et Peters',45.99816,-66.64503,0
 1007,'','Brookside & / Et Summerhill',45.99701,-66.646,0
-1008,'','Terrence & / Et Brookside',45.995,-66.6491,0
-1009,'','Terrence & / Et Westbrook',45.99567,-66.65067,0
-1010,'','Terrence & / Et Stairs',45.99659,-66.65283,0
+1008,'','Terrance & / Et Brookside',45.995,-66.6491,0
+1009,'','Terrance & / Et Westbrook',45.99567,-66.65067,0
+1010,'','Terrance & / Et Stairs',45.99659,-66.65283,0
 1011,'','Stairs',45.99587,-66.65407,0
 1012,'','Stairs & / Et Jeremy',45.9953,-66.65442,0
 1013,'','McKnight',45.9936,-66.6548,0
@@ -42,7 +42,6 @@
 1044,'','Woodstock & / Et Hanwell',45.96282,-66.66843,0
 1045,'','Hilton & / Et Flemming',45.91911,-66.62256,0
 1046,'','Hanwell & / Et Vly Trl',45.9604,-66.6689,0
-1047,'','Waggoners & / Et Hanwell',45.95947,-66.6682,0
 1048,'','Canada Post',45.95894,-66.66607,0
 1049,'','Odell Pk',45.95865,-66.66292,0
 1050,'','Waggoners & / Et Rockwood',45.95803,-66.66105,0
@@ -108,7 +107,6 @@
 1120,'','Brookside & / Et Rose',45.98425,-66.65698,0
 1121,'','Hawkins & / Et Edgewood',45.98388,-66.65814,0
 1122,'','Hawkins & / Et Wilcox',45.98484,-66.65984,0
-1123,'','Haswkins & / Et Neville',45.98529,-66.66103,0
 1124,'','Royal & / Et William',45.98699,-66.66439,0
 1125,'','Royal & / Et Primrose',45.98816,-66.66461,0
 1126,'','Windsor Court',45.99158,-66.66463,0
@@ -119,8 +117,8 @@
 1131,'','Brookside & / Et Reynolds',45.99527,-66.65425,0
 1132,'','Stairs',45.99611,-66.65361,0
 1133,'','Terrence & Ferguson',45.99648,-66.65294,0
-1134,'','Terrence & / Et Westbrook',45.99563,-66.65097,0
-1135,'','Brookside & / Et Terrence',45.99484,-66.64918,0
+1134,'','Terrance & / Et Westbrook',45.99563,-66.65097,0
+1135,'','Brookside & / Et Terrance',45.99484,-66.64918,0
 1136,'','Brookside & / Et Summerhill',45.99737,-66.64543,0
 1137,'','Brookside & / Et Peters',45.99859,-66.64439,0
 1138,'','Brookside & / Et Heron',46.00163,-66.64171,0
@@ -130,7 +128,7 @@
 1142,'','Hawkins & / Et Edgewood',45.98394,-66.65842,0
 1143,'','Brookside & / Et Oakland',45.98816,-66.65361,0
 1144,'','Nashwaaksis Field House',45.9861,-66.64869,0
-1146,'','Forest Hl & / Et Rankin',45.93409,-66.63104,0
+1146,'','Kimble & / Et Rankin',45.93409,-66.63104,0
 1200,'','Cliffe',45.97483,-66.62692,0
 1201,'','York & / Et Connaught',45.95373,-66.65102,0
 1202,'','Cliffe & / Et Fieldstone',45.97582,-66.62355,0
@@ -171,7 +169,7 @@
 2034,'','Union & / Et McKeen',45.97188,-66.63645,0
 2035,'','Saint Marys & / Et Union',45.97198,-66.63479,0
 2036,'','Saint Marys & / Et Highland',45.97477,-66.63403,0
-2037,'','Maple & / Et Saint Marys',45.97614,-66.63572,0
+2037,'','Maple & / Et Saint Mary''s',45.97614,-66.63572,0
 2039,'','Clements & / Et McGregor',45.97776,-66.72134,0
 2040,'','Clements & / Et Spencer',45.97776,-66.71554,0
 2041,'','Chancery Pl',45.95956,-66.63826,0
@@ -186,7 +184,7 @@
 2052,'','Biggs & / Et Forest Hl',45.93252,-66.62787,0
 2053,'','Forest Hl & / Et Biggs',45.93193,-66.62869,0
 2054,'','Clements & / Et Gardiner',45.97794,-66.71003,0
-2056,'','Forest Hl S',45.93593,-66.6332,0
+2056,'','Forest Hl S',45.9361,-66.63341,0
 2057,'','Forest Hl',45.93838,-66.63443,0
 2058,'','Forest Hl & / Et Turnbull',45.94099,-66.6339,0
 2059,'','Richard Currie Ctr',45.94691,-66.63657,0
@@ -202,10 +200,10 @@
 2069,'','École Sainte-Anne',45.94341,-66.65419,0
 2070,'','Regent Medical Complex',45.94226,-66.65517,0
 2071,'','Regent & / Et Prospect',45.93982,-66.65729,0
-2072,'','Regent',45.93753,-66.65932,0
+2072,'','Regent & / Et Prospect',45.93753,-66.65932,0
 2073,'','Fredericton Motor Inn',45.93586,-66.66063,0
 2074,'','Regent Mall',45.93526,-66.66288,0
-2075,'','Regent St / Unknown',45.93739,-66.65901,0
+2075,'','Regent & / Et Prospect',45.93739,-66.65901,0
 2076,'','Cbc Canada',45.93904,-66.65769,0
 2077,'','Micro Boutique',45.94231,-66.6327,0
 2078,'','Montgomery & / Et Grandame',45.94434,-66.65126,0
@@ -221,7 +219,7 @@
 2088,'','Forest Acres Crt',45.94072,-66.63423,0
 2089,'','Forest Hl St',45.93775,-66.63443,0
 2090,'','Forest Hl S',45.93587,-66.63331,0
-2092,'','Forest Hl & / Et Rankin',45.93423,-66.63146,0
+2092,'','Kimble & / Et Rankin',45.93423,-66.63146,0
 2093,'','Beaverbrook & / Et Nicholson',45.94732,-66.63717,0
 2094,'','Forest Hl & / Et Biggs',45.93185,-66.62884,0
 2095,'','Biggs & / Et Forest Hl',45.93256,-66.62772,0
@@ -229,7 +227,7 @@
 2097,'','Dunns Xing & / Et Boyne',45.9368,-66.62883,0
 2098,'','Micro Boutique',45.94271,-66.63266,0
 2099,'','Waterloo Row',45.94448,-66.63375,0
-2100,'','Morrel Pk',45.94799,-66.63401,0
+2100,'','Morrell Pk',45.94799,-66.63401,0
 2101,'','Waterloo & / Et Grey',45.95007,-66.63293,0
 2102,'','Waterloo & / Et Landsdowne',45.95278,-66.63246,0
 2103,'','Waterloo & / Et Shr',45.95443,-66.63251,0
@@ -279,7 +277,7 @@
 3021,'','Wilsey & / Et Kimble',45.9258,-66.6191,0
 3022,'','Wilsey & / Et McNair',45.92188,-66.62058,0
 3023,'','Wilsey & / Et Hilton',45.9191,-66.61954,0
-3024,'','Hilton & / Et Whiting',45.91773,-66.61973,0
+3024,'','Hilton & / Et Whiting',45.9174,-66.6201,0
 3025,'','Hilton & / Et MacKenzie',45.91778,-66.62172,0
 3027,'','Flemming & / Et Ayres',45.91968,-66.62392,0
 3028,'','Flemming & / Et Hatheway',45.92109,-66.62635,0
@@ -298,7 +296,7 @@
 3047,'','Canterbury & / Et Derby',45.92822,-66.63502,0
 3049,'','Canterbury & / Et Topcliffe',45.92937,-66.63701,0
 3050,'','Canterbury & / Et Kimble',45.9281,-66.63442,0
-3051,'','Caneterbury & / Or Woodbridge',45.92893,-66.6362,0
+3051,'','Canterbury & / Or Woodbridge',45.92893,-66.6362,0
 3052,'','Canterbury & / Et Bradford',45.93024,-66.63826,0
 3053,'','Canterbury & / Et Cambridge',45.93147,-66.63991,0
 3054,'','Canterbury & / Et Rochester',45.93361,-66.64085,0
@@ -342,7 +340,6 @@
 4030,'','MacLaren & / Et McEvoy',45.96599,-66.61802,0
 4031,'','MacLaren',45.96717,-66.62001,0
 4032,'','MacLaren & / Et Neil',45.96891,-66.6229,0
-4033,'','MacLaren & / Et S',45.96998,-66.62471,0
 4034,'','MacLaren & / Et Clark',45.97143,-66.62718,0
 4035,'','MacLaren & / Et Cliffe',45.9729,-66.6302,0
 4036,'','Dedham & / Et Paul',45.97278,-66.63267,0
@@ -353,14 +350,12 @@
 4041,'','University & / Et Alexandra',45.95023,-66.63868,0
 4042,'','College Hl & / Et Montgomery',45.94123,-66.64636,0
 4043,'','College Hl',45.93975,-66.6476,0
-4044,'','Priestman & / Et College Hl',45.93846,-66.64869,0
 4045,'','Veterans Health Ctr',45.9402,-66.65406,0
 4046,'','Veterans Health Ctr',45.9401,-66.65429,0
-4047,'','Priestman & / Et College Hl',45.93845,-66.6485,0
 4048,'','College Hl',45.9397,-66.64744,0
 4049,'','Chapman Field',45.94116,-66.64619,0
 4050,'','Lady Beaverbrook Rink',45.95041,-66.63834,0
-4051,'','University & / Et Landsdowne',45.95152,-66.63738,0
+4051,'','University & / Et Lansdowne',45.95152,-66.63738,0
 4052,'','University & / Et Shr',45.95401,-66.63525,0
 4053,'','University & / Et Waterloo',45.95558,-66.63393,0
 4054,'','Dedham & / Et Sappier',45.97265,-66.63269,0
@@ -537,7 +532,7 @@
 6062,'','Lincoln',45.91686,-66.59231,0
 6064,'','Lincoln & / Et Adams',45.91328,-66.58888,0
 6065,'','Adams & / Et Piercy',45.91178,-66.58895,0
-6066,'','Adams',45.91047,-66.589,0
+6066,'','Adams & / Et Piercy',45.91047,-66.589,0
 6067,'','Adams & / Et Trl',45.90956,-66.58998,0
 6068,'','Adams & / Et Logan',45.90808,-66.59091,0
 6069,'','Goodine & / Et Leisure',45.90663,-66.59193,0
@@ -581,7 +576,6 @@
 7003,'','Irvine & / Et Weyman',45.96859,-66.60696,0
 7004,'','Gibson & / Et Dental Clinic',45.96459,-66.61375,0
 7008,'','Hawkins & / Et Royal',45.98583,-66.6631,0
-7009,'','Royal & / Et Hawkins',45.98603,-66.66446,0
 7010,'','McKnight',45.99149,-66.65783,0
 7015,'','1193 Woodstock Rd',45.96554,-66.69949,0
 7017,'','Lian & / Et Valcour',45.94323,-66.69032,0
