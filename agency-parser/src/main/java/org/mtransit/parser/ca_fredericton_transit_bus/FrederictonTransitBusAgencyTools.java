@@ -14,7 +14,6 @@ import java.util.List;
 import java.util.Locale;
 import java.util.regex.Pattern;
 
-// http://data.fredericton.ca/en
 // https://data-fredericton.opendata.arcgis.com/
 // https://data-fredericton.opendata.arcgis.com/datasets/google-transit-gtfs
 public class FrederictonTransitBusAgencyTools extends DefaultAgencyTools {
@@ -116,7 +115,14 @@ public class FrederictonTransitBusAgencyTools extends DefaultAgencyTools {
 		case "17S": return "32CD32"; // Green
 		case "18": return "996633"; // Purple
 		case "20": return "996633"; // Purple
+		case "110": return null; // TODO
+		case "120": return null; // TODO
 		case "116": return "4B0082"; // Brown
+		case "130": return null; // TODO
+		case "140": return null; // TODO
+		case "150": return null; // TODO
+		case "160": return null; // TODO
+		case "200": return null; // TODO
 		case "216": return "4B0082"; // Brown
 		// @formatter:on
 		}
@@ -133,6 +139,7 @@ public class FrederictonTransitBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String cleanDirectionHeadsign(int directionId, boolean fromStopName, @NotNull String directionHeadSign) {
+		directionHeadSign = CleanUtils.toLowerCaseUpperCaseWords(getFirstLanguageNN(), directionHeadSign, getIgnoredWords());
 		directionHeadSign = CleanUtils.keepToAndRemoveVia(directionHeadSign);
 		directionHeadSign = STARTS_W_VIA_.matcher(directionHeadSign).replaceAll(EMPTY); // remove trip only containing "via abc"
 		directionHeadSign = super.cleanDirectionHeadsign(directionId, fromStopName, directionHeadSign);
@@ -142,6 +149,7 @@ public class FrederictonTransitBusAgencyTools extends DefaultAgencyTools {
 	@NotNull
 	@Override
 	public String cleanTripHeadsign(@NotNull String tripHeadsign) {
+		tripHeadsign = CleanUtils.toLowerCaseUpperCaseWords(getFirstLanguageNN(), tripHeadsign, getIgnoredWords());
 		tripHeadsign = CleanUtils.keepVia(tripHeadsign, true);
 		tripHeadsign = CleanUtils.cleanBounds(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
