@@ -5,6 +5,7 @@ import static org.mtransit.commons.StringUtils.EMPTY;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CleanUtils;
+import org.mtransit.parser.ColorUtils;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
@@ -77,11 +78,20 @@ public class FrederictonTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String fixColor(@Nullable String color) {
+		if (ColorUtils.BLACK.equals(color)) {
+			return null; // ignore
+		}
+		return super.fixColor(color);
+	}
+
+	@Override
 	public boolean defaultAgencyColorEnabled() {
 		return true;
 	}
 
 	private static final String AGENCY_COLOR_ORANGE = "FD6604"; // ORANGE (from PNG logo)
+	// TODO private static final String AGENCY_COLOR_ORANGE = "#002F6C" (blue) (from Website)
 
 	private static final String AGENCY_COLOR = AGENCY_COLOR_ORANGE;
 
