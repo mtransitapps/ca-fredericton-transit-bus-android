@@ -16,7 +16,10 @@ import java.util.Locale;
 import java.util.regex.Pattern;
 
 // https://data-fredericton.opendata.arcgis.com/
-// https://data-fredericton.opendata.arcgis.com/datasets/google-transit-gtfs
+// OLD: https://data-fredericton.opendata.arcgis.com/datasets/google-transit-gtfs
+// https://data-fredericton.opendata.arcgis.com/documents/0bc9093b47c744fdb82af7e830ed8590/about
+// https://data-fr-fredericton.opendata.arcgis.com/documents/0bc9093b47c744fdb82af7e830ed8590/about
+// https://cfton.maps.arcgis.com/home/item.html?id=0bc9093b47c744fdb82af7e830ed8590
 public class FrederictonTransitBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
