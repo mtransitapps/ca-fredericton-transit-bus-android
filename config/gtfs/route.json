@@ -1,0 +1,169 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "route_id_cleanup_regex": "-\\d+$",
+    "default_route_long_name_enabled": true,
+    "route_colors_ignored": [
+        "000000"
+    ],
+    "route_colors": [
+        {
+            "route_short_name": "10",
+            "color": "75923C",
+            "color_comment": "Dark Green"
+        },
+        {
+            "route_short_name": "10N",
+            "color": "75923C",
+            "color_comment": "Dark Green"
+        },
+        {
+            "route_short_name": "11",
+            "color": "75923C",
+            "color_comment": "Dark Green"
+        },
+        {
+            "route_short_name": "11S",
+            "color": "75923C",
+            "color_comment": "Dark Green"
+        },
+        {
+            "route_short_name": "12",
+            "color": "4169E1",
+            "color_comment": "Blue"
+        },
+        {
+            "route_short_name": "12N",
+            "color": "4169E1",
+            "color_comment": "Blue"
+        },
+        {
+            "route_short_name": "13",
+            "color": "4169E1",
+            "color_comment": "Blue"
+        },
+        {
+            "route_short_name": "13S",
+            "color": "4169E1",
+            "color_comment": "Blue"
+        },
+        {
+            "route_short_name": "14",
+            "color": "E60000",
+            "color_comment": "Red"
+        },
+        {
+            "route_short_name": "14N",
+            "color": "E60000",
+            "color_comment": "Red"
+        },
+        {
+            "route_short_name": "15",
+            "color": "E60000",
+            "color_comment": "Red"
+        },
+        {
+            "route_short_name": "15S",
+            "color": "E60000",
+            "color_comment": "Red"
+        },
+        {
+            "route_short_name": "16",
+            "color": "32CD32",
+            "color_comment": "Green"
+        },
+        {
+            "route_short_name": "16N",
+            "color": "32CD32",
+            "color_comment": "Green"
+        },
+        {
+            "route_short_name": "17",
+            "color": "32CD32",
+            "color_comment": "Green"
+        },
+        {
+            "route_short_name": "17S",
+            "color": "32CD32",
+            "color_comment": "Green"
+        },
+        {
+            "route_short_name": "18",
+            "color": "996633",
+            "color_comment": "Purple"
+        },
+        {
+            "route_short_name": "20",
+            "color": "996633",
+            "color_comment": "Purple"
+        },
+        {
+            "route_short_name": "110",
+            "color": "FFD107",
+            "color_comment": "Yellow"
+        },
+        {
+            "route_short_name": "116",
+            "color": "4B0082",
+            "color_comment": "Brown"
+        },
+        {
+            "route_short_name": "120",
+            "color": "32CD32",
+            "color_comment": "Green"
+        },
+        {
+            "route_short_name": "130",
+            "color": "4169E1",
+            "color_comment": "Blue"
+        },
+        {
+            "route_short_name": "140",
+            "color": "4B0082",
+            "color_comment": "Brown"
+        },
+        {
+            "route_short_name": "150",
+            "color": "E60000",
+            "color_comment": "Red"
+        },
+        {
+            "route_short_name": "160",
+            "color": "996633",
+            "color_comment": "Purple"
+        },
+        {
+            "route_short_name": "200",
+            "color": "B4F0BE",
+            "color_comment": "Light Green"
+        },
+        {
+            "route_short_name": "216",
+            "color": "4B0082",
+            "color_comment": "Brown"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "(^via .*$)",
+            "ignore_case": true,
+            "comment": "remove trips only containing \"via abc\""
+        }
+    ],
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "((^|^.+\\W)(via)\\W)",
+            "ignore_case": true,
+            "comment": "keep via"
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "\\s+and\\s*/\\s*et\\s+",
+            "ignore_case": true,
+            "replacement": " & "
+        }
+    ]
+}

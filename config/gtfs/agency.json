@@ -1,0 +1,15 @@
+{
+    "target_route_type_id": 3,
+    "additional_languages": [
+        "fr"
+    ],
+    "default_color": "FD6604",
+    "default_color_comment": "ORANGE (from PNG logo)",
+    "default_color_enabled": true,
+    "default_strings_cleaner_enabled": true,
+    "to_lower_upper_case_words": true,
+    "ignore_upper_case_words": [
+        "DEC",
+        "UNB"
+    ]
+}
